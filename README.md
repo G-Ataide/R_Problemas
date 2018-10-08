@@ -6,7 +6,7 @@ Repositório dedicado à discplina **RESOLUÇÃO DE PROBLEMAS (GSI064) - UFU**
 Exercícios sobre Aritmética e Algebra
 
 ## Matarona 3
-Exercícios sobre Análise e Combinatória
+Exercícios sobre Combinatória
 
 ## Maratona 4
 Exercícios sobre Teoria dos Números
