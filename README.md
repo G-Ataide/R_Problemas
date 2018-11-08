@@ -1,7 +1,7 @@
 # RESOLUÇÃO DE PROBLEMAS - UFU
 
 Repositório dedicado à disciplina **RESOLUÇÃO DE PROBLEMAS (GSI064) - UFU**<br/>
-Maratonas realizadas no **Code Pit**<br/><br/>
+Maratonas realizadas no **[Code Pit]**(https://www.codepit.io)<br/><br/>
 
 ## Maratona 1
 Exercícios sobre Ordenação
