@@ -2,11 +2,17 @@
 
 Repositório dedicado à disciplina **RESOLUÇÃO DE PROBLEMAS (GSI064) - UFU**
 
-## Matarona 2
-Exercícios sobre Aritmética e Algebra
+## Maratona 2
+Exercícios sobre Aritmética e Álgebra
 
-## Matarona 3
+## Maratona 3
 Exercícios sobre Combinatória
 
 ## Maratona 4
 Exercícios sobre Teoria dos Números
+
+## Maratona 5
+Exercícios sobre Grafos
+
+## Maratona 6
+Exercícios sobre Programação Dinâmica
